@@ -1,0 +1,11 @@
+name: FlySim
+api: [3.0.0, 4.0.0]
+version: 0.1
+main: Marcosim/Main
+author: Marcosim
+
+commands:
+fly:
+description: Fly On And Fly Off
+use: "/fly"
+permission: fly.sim
